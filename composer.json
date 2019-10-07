@@ -1,5 +1,5 @@
 {
-  "name": "/",
+  "name": "zohocrm/php-sdk",
   "type": "library",
   "description": "Zoho api debugged",
   "keywords": ["zoho","debugged"],
