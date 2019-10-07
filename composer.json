@@ -21,5 +21,7 @@
     "psr-0": {
       "zohocrm": "php-sdk"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
