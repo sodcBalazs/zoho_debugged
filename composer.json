@@ -17,11 +17,9 @@
     "php": ">=5.3.0"
   },
   "autoload": {
-    "autoload": {
       "psr-4": {
         "zohocrm_debugged/zohocrm_debugged/zohocrm/php-sdk/": "src"
       },
       "files": ["zohocrm_debugged/zohocrm_debugged/zohocrm/php-sdk/src/index.php"]
-    }
   }
 }
